@@ -2,6 +2,6 @@
   "name": "mezonquark",
   "website": "https://github.com/MezonQuark47",
   "description": "I operate on some data",
-  "logo": "https://freeimage.host/i/J1BNJVe",
+  "logo": "https://r.resimlink.com/xhFvw6DRGLan.png",
   "twitter": "https://twitter.com/MezonQuark"
 }
